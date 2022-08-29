@@ -1,0 +1,15 @@
+2022-08-27 17:08:17,931 root INFO the number entered by user is 3 and 6
+2022-08-27 17:18:27,134 root INFO the number entered by user is 3 and 6
+2022-08-27 17:18:27,134 root INFO we are into function
+2022-08-27 17:18:27,134 root INFO we have completed a division operation
+2022-08-27 17:21:06,591 root INFO the number entered by user is 3 and 0
+2022-08-27 17:21:06,591 root INFO we are into function
+2022-08-27 17:21:06,591 root ERROR division by zero
+Traceback (most recent call last):
+  File "C:\Users\HP\PycharmProjects\pythonProject\test3.py", line 8, in devide
+    div = a/b
+ZeroDivisionError: division by zero
+2022-08-27 17:26:34,476 root INFO the number entered by user is 3 and 7
+2022-08-27 17:26:34,476 root INFO we are into function
+2022-08-27 17:26:34,491 root INFO we have completed a division operation
+2022-08-27 17:26:34,491 root INFO result of code is 0.42857142857142855 
